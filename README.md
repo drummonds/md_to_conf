@@ -189,3 +189,8 @@ Alternatively, using a custom Markdown syntax also works:
   ╚═(███)═╝
    ╚═(███)═╝
 ```
+
+
+## This fork plan
+
+My aim is to fork this to package as a shiv file and to use my current popular package manager poetry.
